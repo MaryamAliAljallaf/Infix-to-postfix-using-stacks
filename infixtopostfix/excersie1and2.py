@@ -5,7 +5,7 @@ def isOperand(c):
     return c.isalpha()
     #this is a pythin built in method which returns true if its a letter of the alphabet, either capital or small
 
-operators="+-*/^"
+operators="=+-*/^"
 
 #function to chech is the character is an operator +*-/^
 def isOperator(c):
